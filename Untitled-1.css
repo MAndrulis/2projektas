@@ -1,0 +1,45 @@
+
+protokolas://ip4:port
+
+http://127.0.0.1:8080/
+skaiciai zodziu sinonimas
+http://localhost:8080/
+
+http://localhost:3000/ maziausiai langu
+http://localhost:65000/ 2*16
+
+port = grupes nr + projekto nr
+      4502
+      
+    Atsistumimas tarp elemntu:
+ margin: 20px;
+ margin-top: 20px;
+ margin-right: 20px;
+ margin-bottom: 20px;
+ margin-left: 20px; 
+
+    Elemento issiputimas
+ padding: 20px;
+ margin-top: 20px;
+ margin-right: 20px;
+ margin-bottom: 20px;
+ margin-left: 20px; 
+ 
+
+ 
+ 
+ elementu atvaizdavimo budas:
+ display: block ;   (elementu vertikaliai)
+ display: inline; <a>, <span>  elgiasi kaip tekstas
+ displaz: inline-block;    stengiasi buti vienoje eiluteje su kitais,bet jei netelpa,
+                             krinta i nauja eile ir nevirsija tevinio elemento dzdyio
+   
+ text-align: left;            (default)
+ text-align: center;
+ text-align: right;
+ text-align: justify;             (not fun)    
+ 
+ 
+ TAISYKLE:
+ -Tekstines savybes gali buti paveldetos is teviniu i vaikinius elementus
+
